@@ -1,2 +1,2 @@
-# introdução-pensamento-computacional
-Anotações da aula de Introdução ao Pensamento Computacional
+# introdução-pensamento-computacional-dio
+Anotações da aula de Introdução ao Pensamento Computacional - DIO
