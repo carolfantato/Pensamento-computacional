@@ -1,0 +1,8 @@
+# Resumo da aula de Introdução ao Pensamento Computacional
+
+## 4 pilares
+
+- Decomposição: dividir o problema em partes
+- Reconhecimento de padrões: observar para reconhecer padrões é da natureza humana
+- Abstração: do mundo concreto para o abstrado e vice-versa
+- Design de algoritmos: definir o passo-a-passo
