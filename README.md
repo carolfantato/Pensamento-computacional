@@ -1,2 +1,2 @@
-# Pensamento-computacional
-Introdução ao pensamento computacional
+# introdução-pensamento-computacional
+Anotações da aula de Introdução ao Pensamento Computacional
